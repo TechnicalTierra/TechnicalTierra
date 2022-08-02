@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechnicalTierra
-- 👀 I’m interested in ... all thing tech
+- 👀 I’m interested in ... all things tech
 - 🌱 I’m currently learning ... web devolopment and cybersecurity
 - 💞️ I’m looking to collaborate on ... web dev projects
 - 📫 How to reach me ... message me on twitter
