@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechnicalTierra
-- 👀 I’m interested in ... web devolopment and cybersecurity
-- 🌱 I’m currently learning ... frontend web development
+- 👀 I’m interested in ... (front and backend) web devolopment and cybersecurity
+- 🌱 I’m currently learning ... HTML emails
 - 💞️ I’m looking to collaborate on ... web dev projects
 - 📫 How to reach me ... message me on twitter
 
