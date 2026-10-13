@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechnicalTierra
-- 👀 I’m interested in ... (front and backend) web devolopment and cybersecurity. 
-- 🌱 I’m currently learning ... Webflow!
-- 💞️ I’m looking to collaborate on ... web dev projects. 
+- 👀 I’m interested in ... Data Analysis. 
+- 🌱 I’m currently learning ... SQL!
+- 💞️ I’m looking to collaborate on ... data analysis projects. 
 - 📫 How to reach me ... message me on LinkedIn. 
 
 <!---
